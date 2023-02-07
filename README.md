@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+My name is Adam but I also go by last name Suskin. I'm currently based in NYC working at Candid Health as a software engineer.
+
+### Links
+
+- 🚀 [adamsuskin.com](https://www.adamsuskin.com/)
+- 🤝 [linkedin](https://www.linkedin.com/in/adamsuskin/)
+- 💬 [twitter](https://twitter.com/AdamSuskin)
 
 <!--
 **adamsuskin/adamsuskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
