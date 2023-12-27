@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Adam but I also go by last name Suskin. I'm currently based in NYC working at Candid Health as a software engineer.
+My name is Adam but I also go by last name Suskin. I'm currently remote and exploring what to build next.
 
 ### Links
 
