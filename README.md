@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Adam but I also go by last name Suskin. I'm currently remote and exploring what to build next.
+My name is Adam but I also go by last name Suskin. I'm currently remote, working on a culture-building platform called [Crouton](https://usecrouton.com).
 
 ### Links
 
