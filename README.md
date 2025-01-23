@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Adam but I also go by last name Suskin. I'm currently remote, working on a culture-building platform called [Crouton](https://usecrouton.com).
+My name is Adam but I also go by last name Suskin. I'm currently based in Charlotte, NC working on [Upshift](https://upshift.dev).
 
 ### Links
 
